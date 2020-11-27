@@ -1,4 +1,4 @@
-//Temperature LM35
+/*Temperature LM35
 #include <Arduino.h>
 
 float tempC;
@@ -19,3 +19,4 @@ void loop()
   Serial.println(tempC);
   delay(1000);
 }
+*/
