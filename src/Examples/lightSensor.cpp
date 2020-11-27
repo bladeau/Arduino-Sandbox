@@ -1,5 +1,5 @@
 #include <Arduino.h>
-//Light Sensor Monitoring
+/*Light Sensor Monitoring
 int LDR;
 void setup()
 {
@@ -12,3 +12,4 @@ void loop()
   Serial.println(LDR);
   delay(500);
 }
+*/
