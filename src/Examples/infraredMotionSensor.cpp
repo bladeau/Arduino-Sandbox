@@ -24,7 +24,7 @@
  * This program deals with this issue by ignoring LOW-phases shorter than a given time, 
  * assuming continuous motion is present during these phases.
  *  
- */
+ 
 
 /////////////////////////////
 //VARS
@@ -109,3 +109,4 @@ void loop()
     }
   }
 }
+*/
